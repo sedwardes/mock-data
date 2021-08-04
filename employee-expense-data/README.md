@@ -1,6 +1,4 @@
-# Employee Expense Data
-
-## Background
+# Case Study
 
 ABC is one of the largest universities in North America. Due to its rapid growth of students and staff population, the expense reimbursement data is also growing exponentially. The board members are interested to know if there is any misconduct in the expense reimbursement process or potential risks, control failures etc.
 
