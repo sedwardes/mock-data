@@ -21,6 +21,8 @@ The following Colab notebooks have been pre-populated with the case study and st
 **Python**
 
 ```python
+import pandas as pd
+
 employees_data_path = "https://github.com/sedwardes/mock-data/raw/main/employee-expense-data/Employee%20table.csv"
 employees = pd.read_csv(employees_data_path)
 employees.head()
