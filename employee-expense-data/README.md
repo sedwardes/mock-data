@@ -5,9 +5,9 @@ ABC is one of the largest universities in North America. Due to its rapid growth
 You are the data scientist of the University’s Internal Audit division and you would like to create a dashboard to continuously monitor expense reimbursement data and find insights by cross checking the employee data from HR department. 
 Please cleanse [Expense data] and [Employee table], develop a data model and create a visualization that supports your analysis. The following are some testing hypotheses you can use as reference:
 
-- Are expenses evenly distributed over time?
-- What are the top expense types?
-- Are expenses approved by employees direct managers?
+1. Are expenses evenly distributed over time?
+2. What are the top expense types?
+3. Are expenses approved by employees direct managers?
 
 ## Tools
 
